@@ -12,6 +12,7 @@
     "clsx": "^2.0.0",
     "lucide-react": "^0.279.0",
     "next": "latest",
+    "query-string": "^8.1.0",
     "react": "latest",
     "react-dom": "latest",
     "tailwind-merge": "^1.14.0"
