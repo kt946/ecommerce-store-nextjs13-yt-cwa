@@ -1,4 +1,10 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Ecommerce Store with CMS - Next.js 13, Tailwind, Prisma, Stripe
+
+![ecommerce_store_screenshot](https://github.com/kt946/ecommerce-store-nextjs13-yt-cwa/assets/103476893/63d1c70a-ecc0-4a22-ad36-54dbab6d29a9, 'Ecommerce store homepage')
+
+## Description
+
+This project is an ecommerce online store connected to a CMS dashboard where users can add products to a shopping cart and complete orders using the Stripe API. The deployed version is connected to this CMS ![github repository](https://github.com/kt946/ecommerce-admin-dashboard-nextjs13-yt-cwa). It was built using a YouTube tutorial by [Code With Antonio](https://www.youtube.com/watch?v=5miHyP6lExg).
 
 ## Getting Started
 
